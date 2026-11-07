@@ -1,7 +1,8 @@
 # NexusCanvas — System Architecture Graph Studio
 
 **Author:** Pooya Goodarzi  
-**Live site:** https://pooya16pg-spec.github.io/nexus-canvas/
+**Live site:** https://pooya-labs.github.io/nexus-canvas/  
+**Repository:** [pooya-labs/nexus-canvas](https://github.com/pooya-labs/nexus-canvas)
 
 NexusCanvas is a client-side architecture workspace for sketching service topologies, checking structural risks, and exporting portable starter artifacts.
 
