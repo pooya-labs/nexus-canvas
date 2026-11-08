@@ -10,7 +10,6 @@ import {
   Flame,
   Globe,
   Layers,
-  Sparkles,
   Users,
 } from "lucide-react";
 
@@ -67,7 +66,7 @@ export default function TopBar() {
 
           <div className="flex items-center gap-3 shrink-0">
             <a
-              href="https://pooya16pg-spec.github.io/pooya-os/"
+              href="https://pooya-labs.github.io/pooya-os/"
               target="_blank"
               rel="noreferrer"
               className="text-slate-400 hover:text-cyan-300 flex items-center gap-1"
@@ -77,7 +76,7 @@ export default function TopBar() {
             </a>
             <span className="text-white/20">|</span>
             <a
-              href="https://pooya16pg-spec.github.io/aurapulse/"
+              href="https://pooya-labs.github.io/aurapulse/"
               target="_blank"
               rel="noreferrer"
               className="text-slate-400 hover:text-emerald-300 flex items-center gap-1"
@@ -93,12 +92,12 @@ export default function TopBar() {
       <header className="border-b border-white/15 bg-[#050814]/90 backdrop-blur-2xl px-3 lg:px-8 py-3">
         <div className="max-w-[1720px] mx-auto flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-3">
-            <div className="flex items-center gap-2.5 px-3.5 py-2 rounded-2xl bg-gradient-to-r from-cyan-500/25 via-indigo-500/20 to-emerald-500/20 border border-cyan-400/50">
-              <Sparkles className="w-4 h-4 text-cyan-300 animate-pulse" />
+            <div className="flex items-center gap-2.5 px-3.5 py-2 rounded-2xl bg-gradient-to-r from-cyan-500/15 via-indigo-500/15 to-emerald-500/10 border border-cyan-400/30">
+              <img src="/nexus-canvas/nexus-canvas-mark.svg" alt="NexusCanvas" className="h-9 w-9 shrink-0 object-contain" />
               <span className="font-mono font-black tracking-wider text-white text-base">
                 NexusCanvas
               </span>
-              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-cyan-400/20 text-cyan-200 border border-cyan-400/40 font-bold">
+              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-cyan-400/15 text-cyan-200 border border-cyan-400/30 font-bold">
                 ARCH v4.0
               </span>
             </div>
