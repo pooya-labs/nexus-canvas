@@ -31,6 +31,16 @@ Next.js 16, React 19, TypeScript, Tailwind CSS, SVG, browser-native BroadcastCha
 
 ---
 
+## Latest project update — 8 November 2026
+
+The NexusCanvas brand mark and favicon were refreshed, and the project footer now links its owner identity to Pooya Labs. A recent footer build error caused by an undefined language reference was fixed. The repository's latest source update records the Persian README and this handoff; deployment status should be read from the live Actions workflow rather than inferred from the commit alone.
+
+## Project ownership
+
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram.webp" alt="Pooya Labs Platform monogram" width="64" /></a></p>
+
+**Owned and maintained by [Pooya Labs Platform](https://pooya-labs.github.io/pooya-labs-platform/).** Project direction and engineering: **Pooya Goodarzi**.
+
 ## راهنمای فارسی
 
 ### معرفی
@@ -66,3 +76,13 @@ npm run dev
 ```
 
 برای جزئیات بیشتر به بخش‌های انگلیسی همین راهنما و مستندات معماری مخزن مراجعه کنید.
+
+### آخرین تغییرات — ۸ نوامبر ۲۰۲۶
+
+نشان اختصاصی NexusCanvas و آیکون تب مرورگر به‌روزرسانی شدند و پیوند مالکیت در فوتر به پویا لبز متصل شد. خطای اخیر ساخت فوتر که به ارجاع تعریف‌نشدهٔ زبان مربوط بود نیز اصلاح شد. وضعیت انتشار باید از اجرای واقعی GitHub Actions بررسی شود و صرف ثبت commit به معنی انتشار موفق نیست.
+
+### مالکیت و نگه‌داری
+
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram.webp" alt="نشان مونوگرام پویا لبز" width="64" /></a></p>
+
+**مالک و نگه‌دارنده: [پلتفرم پویا لبز](https://pooya-labs.github.io/pooya-labs-platform/)** · طراحی و توسعه: **پویا گودرزی**.
