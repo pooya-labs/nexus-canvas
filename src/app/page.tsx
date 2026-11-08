@@ -29,8 +29,8 @@ export default function NexusCanvasPage() {
               <img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram.webp" alt="Pooya Labs" className="h-full w-full object-contain" loading="lazy" />
             </div>
             <div className="min-w-0">
-              <p className="text-sm font-semibold text-white">{lang === "fa" ? "ساخته‌شده توسط پویا گودرزی" : "Built by Pooya Goodarzi"}</p>
-              <p className="mt-1 text-xs text-slate-500">{lang === "fa" ? "بخشی از اکوسیستم Pooya Labs" : "Part of the Pooya Labs ecosystem"}</p>
+              <p className="text-sm font-semibold text-white">"Built by Pooya Goodarzi"</p>
+              <p className="mt-1 text-xs text-slate-500">"Part of the Pooya Labs ecosystem"</p>
             </div>
           </div>
           <nav aria-label="Creator links" className="flex flex-wrap items-center gap-x-5 gap-y-3 text-xs font-medium text-slate-400">
