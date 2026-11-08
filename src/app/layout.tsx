@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "NexusCanvas | Pooya Goodarzi — Spatial System Architecture Studio",
   description:
     "Interactive Distributed System Architecture, AI Workflow & Real-Time Collaborative Canvas by Pooya Goodarzi.",
+  icons: { icon: "/nexus-canvas/nexus-canvas-mark.svg" },
 };
 
 export default function RootLayout({
